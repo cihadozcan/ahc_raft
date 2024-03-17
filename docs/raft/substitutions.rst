@@ -1,0 +1,2 @@
+.. |raft| replace:: Raft
+
